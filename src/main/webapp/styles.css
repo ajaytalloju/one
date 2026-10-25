@@ -7,7 +7,7 @@ body {
 }
 
 h1, h2, h3 {
-  color: #333;
+  color: #1a1a2e;              /* changed from #333 */
 }
 
 a {
@@ -18,14 +18,14 @@ a {
 .btn {
   display: inline-block;
   padding: 10px 20px;
-  background-color: #ff6f61;
+  background-color: #4a90e2;   /* changed from #ff6f61 */
   color: white;
   border-radius: 5px;
   transition: background-color 0.3s ease;
 }
 
 .btn:hover {
-  background-color: #ff4a3d;
+  background-color: #357abd;   /* changed from #ff4a3d */
 }
 
 /* Hero Section */
@@ -125,7 +125,7 @@ a {
 
 #contact-form button {
   padding: 10px 20px;
-  background-color: #ff6f61;
+  background-color: #4a90e2;   /* changed from #ff6f61 */
   color: white;
   border: none;
   border-radius: 5px;
@@ -133,7 +133,7 @@ a {
 }
 
 #contact-form button:hover {
-  background-color: #ff4a3d;
+  background-color: #357abd;   /* changed from #ff4a3d */
 }
 
 /* Footer */
