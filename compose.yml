@@ -1,6 +1,6 @@
 services:
   myapp:
-    image: myapp:${IMAGE_TAG}
+    image: ajaytalloju/myrepo/myapp-18
     container_name: myapp-container
     ports:
       - "1111:8080"
